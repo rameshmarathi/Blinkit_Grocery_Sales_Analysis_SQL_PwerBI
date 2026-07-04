@@ -108,14 +108,14 @@ Blinkit-Sales-Analysis/
 
 ## Author
 
-Rushikesh
+Ramesh Marathi
 
 ---
 
 ## Connect With Me
 
-LinkedIn:https://www.linkedin.com/in/rushikeshdavange/
-GitHub:https://github.com/davange-rushikesh
+LinkedIn:https://www.linkedin.com/in/ramesh-marathi/
+GitHub:https://github.com/rameshmarathi
 
 ---
 
